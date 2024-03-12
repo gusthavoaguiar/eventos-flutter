@@ -27,7 +27,7 @@ class ProfileScreen extends StatelessWidget {
             children: [
               circleAvatar(
                   'https://avatars.githubusercontent.com/u/125374896?s=400&u=8d6c34d4eef93a72ea5f23c4b6a48adc193620c9&v=4'),
-              Text('Superman do Curintia',
+              Text('Caio Rodrigues',
                   style: GoogleFonts.inter(
                       fontSize: 20, fontWeight: FontWeight.bold, color: Colors.white))
             ],
